@@ -1,0 +1,24 @@
+{
+  "name": "build-tools-for-web-practice",
+  "version": "1.0.0",
+  "description": "Инструменты сборки Web-проектов. Практика.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krunch12345/build-tools-for-web-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krunch12345/build-tools-for-web-practice/issues"
+  },
+  "homepage": "https://github.com/krunch12345/build-tools-for-web-practice#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
